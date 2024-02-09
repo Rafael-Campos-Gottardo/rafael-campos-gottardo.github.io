@@ -1,0 +1,10 @@
+---
+title: "Rafael Campos-Gottardo"
+about: 
+  template: jolla
+  image: files/images/rafael.jpg
+---
+
+## Welcome to my Website
+
+I am a Masters student in the political science department at McGill University. I study causes and consequences of political polarization in Canada.
