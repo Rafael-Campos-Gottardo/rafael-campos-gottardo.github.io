@@ -3,8 +3,19 @@ title: "Rafael Campos-Gottardo"
 about: 
   template: jolla
   image: files/images/rafael.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/rafael-campos-gottardo
+    - icon: file-pdf
+      text: CV
+      href: files/static/cv.pdf
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/rafaelgottardo
+      
 ---
 
 ## Welcome to my Website
 
-I am a Masters student in the political science department at McGill University. I study causes and consequences of political polarization in Canada.
+I am a Masters student in the political science department at [McGill University](https://www.mcgill.ca/politicalscience/) and the Centre for the Study of Democratic Citizenship ([CSDC](https://csdc-cecd.ca/members/students/?studentid=547)). My research is in the sub-fields on **Canadian** and **comparative politics** and focuses on the causes and consequences of political polarization.
