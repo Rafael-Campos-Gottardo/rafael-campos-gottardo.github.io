@@ -6,7 +6,7 @@ about:
   links: 
     - icon: github
       text: Github
-      href: https://github.com/rafael-campos-gottardo
+      href: https://github.com/rafaelgottardo
     - icon: file-pdf
       text: CV
       href: files/static/cv.pdf
